@@ -1,29 +1,6 @@
-# [Markus](http://markus-generator.herokuapp.com/) [![Dependency Status](https://david-dm.org/creaturephil/pre-markus.svg)](https://david-dm.org/creaturephil/pre-markus) [![Build Status](https://travis-ci.org/CreaturePhil/pre-markus.svg)](https://travis-ci.org/CreaturePhil/pre-markus) 
+# [pre-markus](http://markus-generator.herokuapp.com/) [![Dependency Status](https://david-dm.org/creaturephil/pre-markus.svg)](https://david-dm.org/creaturephil/pre-markus) [![Build Status](https://travis-ci.org/CreaturePhil/pre-markus.svg)](https://travis-ci.org/CreaturePhil/pre-markus) 
 
-  [Express'](https://github.com/strongloop/express) opinionated application generator and boilerplate for Node.js web applications. Inspired by [Hackathon Starter](https://github.com/sahat/hackathon-starter) and [express-generator](https://github.com/expressjs/generator).
-
-## Quick Start
-
-  The quickest way to get started with markus is to utilize the executable `markus(1)` to generate an application as shown below:
-
-  Create the app:
-
-```bash
-$ npm install -g markus
-$ markus /tmp/foo && cd /tmp/foo
-```
-
-  Install dependencies:
-
-```bash
-$ npm install
-```
-
-  Run your app:
-
-```bash
-$ npm start
-```
+  Preparation for [markus](https://github.com/CreaturePhil/markus).
 
 ## License
 
